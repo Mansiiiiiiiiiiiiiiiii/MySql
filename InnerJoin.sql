@@ -10,7 +10,7 @@ CREATE DATABASE testDB;
  insert into customer
 values(1,"Mansi","kumari.mansi003@gmail.com");
 insert into customer
- values(2,"Prince","Princejain1608@gmail.com");
+ values(2,"Prince","princejain1608@gmail.com");
  insert into customer
  values(3,"Khushi","khushigunnu@gmail.com");
   insert into customer
