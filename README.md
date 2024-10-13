@@ -60,7 +60,9 @@ For questions or feedback, please reach out at [mansi15094@gmail.com](mailto:man
 
 ---
 
-✨ **Happy Querying!** ✨
+### ✨ Happy Querying! ✨
+*(Imagine this text cycling through rainbow colors!)*
+
 
 ---
 
