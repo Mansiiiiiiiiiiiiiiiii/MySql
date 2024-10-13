@@ -79,7 +79,3 @@ h1 {
   animation: rainbow 5s linear infinite;
 }
 </style>
-
----
-
-Feel free to adjust any sections or icons to better match your vision!
